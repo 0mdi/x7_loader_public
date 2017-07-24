@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "x7_loader", "x7_loader\x7_loader.vcxproj", "{CA51B8BC-7F1F-48C4-980E-3B421C9855D4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "injector", "injector\injector.vcxproj", "{B24CB82D-24A8-435A-8C42-9EB1FFDDE02F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA51B8BC-7F1F-48C4-980E-3B421C9855D4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CA51B8BC-7F1F-48C4-980E-3B421C9855D4}.Debug|Win32.Build.0 = Debug|Win32
+		{CA51B8BC-7F1F-48C4-980E-3B421C9855D4}.Release|Win32.ActiveCfg = Release|Win32
+		{CA51B8BC-7F1F-48C4-980E-3B421C9855D4}.Release|Win32.Build.0 = Release|Win32
+		{B24CB82D-24A8-435A-8C42-9EB1FFDDE02F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B24CB82D-24A8-435A-8C42-9EB1FFDDE02F}.Debug|Win32.Build.0 = Debug|Win32
+		{B24CB82D-24A8-435A-8C42-9EB1FFDDE02F}.Release|Win32.ActiveCfg = Release|Win32
+		{B24CB82D-24A8-435A-8C42-9EB1FFDDE02F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
